@@ -1,0 +1,26 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.1.112:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [05/Apr/2025 11:27:08] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.149:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [05/Apr/2025 11:30:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Apr/2025 11:30:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 11:30:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Apr/2025 11:31:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Apr/2025 11:31:03] "GET / HTTP/1.1" 200 -
